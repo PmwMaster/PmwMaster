@@ -25,7 +25,7 @@ I continuously improve my skills through hands-on projects, practical exercises,
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-flame-chi-78.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-flame-chi-78.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&locale=pt-br"
     height="165"
     alt="GitHub Stats"
   />
