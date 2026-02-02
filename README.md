@@ -1,90 +1,42 @@
-# 👨🏻‍💻 Cristiano Xavier
+# 👨‍💻 Cristiano Xavier
 
-**`Desenvolvedor em Formação | SPI`**
+**Junior Software Developer | Java & Web Technologies | Open to Remote Opportunities**
 
-Me chamo Cristiano Xavier, tenho 18 anos e moro em Palmas, Tocantins. Atualmente, sou estudante do segundo período de **Sistemas para Internet (SPI)** no **IFTO** (Instituto Federal do Tocantins). Sou apaixonado por tecnologia e produtividade, utilizando ferramentas como o **Obsidian** para construir meu "segundo cérebro" e organizar meus estudos. Além de estudar, trabalho e mantenho uma rotina focada em academia e desenvolvimento constante.
+I am a junior software developer with a strong interest in web technologies and backend fundamentals.  
+Currently studying Systems for Internet Applications, I focus on building a solid foundation in programming, problem-solving, and clean code practices.
+
+I am continuously improving my skills through hands-on projects, practical exercises, and real-world learning, aiming to grow into a professional software developer ready for remote and international opportunities.
+
+---
+
+### 🛠️ Technologies & Tools
 
 <p align="left">
-    <a href="https://github.com/PmwMaster?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/PmwMaster?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/PmwMaster?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/PmwMaster?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📊 GitHub Stats
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true"
+    height="165"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmwMaster&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight"
+    height="165"
   />
-
 </p>
+
+---
+
+### 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/SEU-LINKEDIN
+- GitHub: https://github.com/PmwMaster
