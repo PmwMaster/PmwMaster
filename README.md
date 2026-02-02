@@ -25,13 +25,14 @@ I continuously improve my skills through hands-on projects, practical exercises,
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=21600"
+    src="https://github-readme-stats.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=21600&v=1"
     height="165"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&cache_seconds=21600"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&cache_seconds=21600&v=1"
     height="165"
     alt="Top Languages"
   />
 </p>
+
