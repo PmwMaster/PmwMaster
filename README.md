@@ -1,9 +1,9 @@
-#  Cristiano Xavier
+# Cristiano Xavier
 
 **Junior Software Developer | Java & Web Technologies | Open to Remote Opportunities**
 
 I am a junior software developer with a strong interest in web technologies and backend fundamentals.  
-Currently studying **Systems for Internet Applications**, I focus on building a solid foundation in programming, problem-solving, and clean code practices.
+Currently studying **Systems for Internet Applications** no **IFTO**, I focus on building a solid foundation in programming, problem-solving, and clean code practices.
 
 I continuously improve my skills through hands-on projects, practical exercises, and real-world learning, aiming to grow into a professional software developer prepared for remote and international opportunities.
 
@@ -25,14 +25,13 @@ I continuously improve my skills through hands-on projects, practical exercises,
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=21600&v=1"
+    src="https://github-readme-stats-flame-chi-78.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     height="165"
     alt="GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&cache_seconds=21600&v=1"
+    src="https://github-readme-stats-flame-chi-78.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&langs_count=5"
     height="165"
     alt="Top Languages"
   />
 </p>
-
