@@ -38,5 +38,4 @@ I am continuously improving my skills through hands-on projects, practical exerc
 
 ### 📫 Contact
 
-- LinkedIn: www.linkedin.com/in/cristiano-xavier-426471342
-- GitHub: https://github.com/PmwMaster
+- LinkedIn: www.linkedin.com/in/cristiano-xavier
