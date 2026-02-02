@@ -1,4 +1,4 @@
-# 👨‍💻 Cristiano Xavier
+#  Cristiano Xavier
 
 **Junior Software Developer | Java & Web Technologies | Open to Remote Opportunities**
 
