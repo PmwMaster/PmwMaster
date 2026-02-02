@@ -3,7 +3,8 @@
 **Junior Software Developer | Java & Web Technologies | Open to Remote Opportunities**
 
 I am a junior software developer with a strong interest in web technologies and backend fundamentals.  
-Currently studying **Systems for Internet Applications** at **IFTO** (Federal Institute of Tocantins), I focus on building a solid foundation in programming, problem-solving, and clean code practices.
+
+Currently studying **Systems for Internet Applications**, I focus on building a solid foundation in programming, problem-solving, and clean code practices.
 
 I continuously improve my skills through hands-on projects, practical exercises, and real-world learning, aiming to grow into a professional software developer prepared for remote and international opportunities.
 
