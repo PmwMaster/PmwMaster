@@ -25,6 +25,12 @@ My goal is to grow into a high-performance software developer prepared for remot
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" title="Git"/> 
 </p>
 
-### 📊 GitHub Stats
+<br/>
+---
+<br/>
 
-<p align="center"> <img src="https://github-readme-stats-flame-chi-78.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" /> <img src="https://github-readme-stats-flame-chi-78.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=1800" height="165" alt="Top Languages" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats-flame-chi-78.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" /> 
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-flame-chi-78.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=1800" height="165" alt="Top Languages" /> 
+</p>
