@@ -8,6 +8,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PmwMaster&style=for-the-badge&color=70a5fd" alt="Profile Views" />
+</p>
+
+<br/>
+
 I am a junior software developer focused on backend development and modern web technologies.
 
 Currently studying Systems for Internet Applications, I am building strong foundations in software engineering, clean code practices, and scalable backend architecture.
@@ -41,6 +47,14 @@ My goal is to grow into a high-performance software developer prepared for remot
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true" height="165" alt="GitHub Stats" /> 
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&langs_count=5" height="165" alt="Top Languages" /> 
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PmwMaster&theme=tokyonight&hide_border=false" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PmwMaster&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <br/>
