@@ -53,6 +53,26 @@ My goal is to grow into a high-performance software developer prepared for remot
 
 ---
 
+### GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PmwMaster&theme=tokyonight" width="100%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PmwMaster&theme=tokyonight" height="165" alt="Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PmwMaster&theme=tokyonight" height="165" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PmwMaster&theme=tokyonight&utcOffset=-3" height="165" alt="Productive Time" />
+</p>
+
+<br/>
+
+---
+
 <br/>
 
 <p align="center">
