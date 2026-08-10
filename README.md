@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=checkered&color=0:1a1b27,100:70a5fd&height=120&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header" />
 </p>
 
 I am a junior software developer focused on backend development and modern web technologies.
