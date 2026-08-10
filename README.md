@@ -58,7 +58,7 @@ My goal is to grow into a high-performance software developer prepared for remot
     <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" />
   </a>
   &nbsp;
-  <a href="mailto:seu@email.com">
+  <a href="mailto:cristianoxavierm123@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd" />
   </a>
 </p>
