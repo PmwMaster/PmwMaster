@@ -30,7 +30,7 @@ My goal is to grow into a high-performance software developer prepared for remot
 <br/>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=1800" height="165" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PmwMaster&show_icons=true&theme=tokyonight&include_all_commits=true" height="165" alt="GitHub Stats" /> 
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&langs_count=5&cache_seconds=1800" height="165" alt="Top Languages" /> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PmwMaster&layout=compact&theme=tokyonight&langs_count=5" height="165" alt="Top Languages" /> 
 </p>
