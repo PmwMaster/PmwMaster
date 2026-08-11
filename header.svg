@@ -3,44 +3,34 @@
     text { font-family: 'Source Code Pro', 'Fira Code', 'Courier New', monospace; }
   </style>
 
-  <rect x="5" y="5" rx="6" width="630" height="210" fill="#1a1b27" stroke="#70a5fd" stroke-width="1.5" opacity="0.95"/>
-
-  <text x="25" y="45" font-size="13" fill="#38bdae" font-weight="bold" opacity="0">
+  <text x="320" y="35" font-size="13" fill="#38bdae" font-weight="bold" text-anchor="middle" opacity="0">
     [ SYSTEM BOOT ] v2.0.25
     <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="0s" fill="freeze"/>
   </text>
 
-  <line x1="25" y1="55" x2="615" y2="55" stroke="#70a5fd" stroke-width="0.5" opacity="0">
-    <animate attributeName="opacity" from="0" to="0.3" dur="0.4s" begin="0.6s" fill="freeze"/>
-  </line>
-
-  <text x="25" y="78" font-size="12" fill="#70a5fd" opacity="0">
+  <text x="320" y="65" font-size="12" fill="#70a5fd" text-anchor="middle" opacity="0">
     <tspan fill="#38bdae">$</tspan> Cristiano Xavier
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.0s" fill="freeze"/>
   </text>
 
-  <text x="25" y="100" font-size="12" fill="#bf91f3" opacity="0">
+  <text x="320" y="87" font-size="12" fill="#bf91f3" text-anchor="middle" opacity="0">
     <tspan fill="#38bdae">$</tspan> Junior Software Developer
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.5s" fill="freeze"/>
   </text>
 
-  <text x="25" y="122" font-size="12" fill="#bf91f3" opacity="0">
+  <text x="320" y="109" font-size="12" fill="#bf91f3" text-anchor="middle" opacity="0">
     <tspan fill="#38bdae">$</tspan> Java | TypeScript | Web Technologies
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.0s" fill="freeze"/>
   </text>
 
-  <line x1="25" y1="136" x2="615" y2="136" stroke="#70a5fd" stroke-width="0.5" opacity="0">
-    <animate attributeName="opacity" from="0" to="0.3" dur="0.4s" begin="2.5s" fill="freeze"/>
-  </line>
-
-  <text x="25" y="160" font-size="12" fill="#38bdae" opacity="0">
+  <text x="320" y="145" font-size="12" fill="#38bdae" text-anchor="middle" opacity="0">
     <tspan fill="#70a5fd">"</tspan>Building web applications and APIs<tspan fill="#70a5fd">"</tspan>
-    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.9s" fill="freeze"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.5s" fill="freeze"/>
   </text>
 
-  <text x="25" y="190" font-size="14" fill="#70a5fd" opacity="0">
+  <text x="320" y="180" font-size="14" fill="#70a5fd" text-anchor="middle" opacity="0">
     _
-    <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="3.4s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="3.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="3.0s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="3.0s" repeatCount="indefinite"/>
   </text>
 </svg>
