@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Cristiano%20Xavier;Junior%20Software%20Developer%20%7C%20Java%2C%20TypeScript%20%26%20Web%20Technologies&center=true&width=600&height=80&font=Fira%20Code&size=30&duration=4000&pause=1500&color=70A5FD" alt="Typing SVG" />
-  </a>
+  <img src="terminal-header.svg" alt="Terminal Header" />
 </p>
 
 <p align="center">
