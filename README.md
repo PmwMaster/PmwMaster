@@ -8,6 +8,15 @@
 
 <br/>
 
+<h1 align="center">Hi, I'm Cristiano Xavier 👋</h1>
+<h3 align="center">Junior Software Developer | Backend Focused</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programmer Animation" />
+</p>
+
+<br/>
+
 I am a junior software developer focused on backend development and modern web technologies.
 
 Currently studying Systems for Internet Applications, I am building strong foundations in software engineering, clean code practices, and scalable backend architecture.
@@ -78,6 +87,8 @@ My goal is to grow into a high-performance software developer prepared for remot
 <br/>
 
 ---
+
+<br/>
 
 <p align="center">
   <picture>
