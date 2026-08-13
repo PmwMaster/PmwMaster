@@ -4,7 +4,11 @@
 
 <br/>
 
-<h1 align="center">Olá, eu sou o Cristiano Xavier</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=435&lines=Cristiano+Xavier" alt="Cristiano Xavier" />
+  </a>
+</h1>
 <h3 align="center">Desenvolvedor Full Stack | Especialista em Landing Pages</h3>
 
 <br/>
