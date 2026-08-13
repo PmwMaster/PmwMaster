@@ -1,27 +1,20 @@
 <p align="center">
-
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header" />
 </p>
 
 <br/>
 
-<h1 align="center">Hi, I'm Cristiano Xavier 👋</h1>
-<h3 align="center">Junior Software Developer | Backend Focused</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programmer Animation" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Olá,+eu+sou+o+Cristiano+Xavier;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+</h1>
 
 <br/>
 
-I am a junior software developer focused on backend development and modern web technologies.
+<p align="center">
+  <em>Desenvolvedor Full Stack | Especialista em Landing Pages | Estudante de Sistemas para Internet</em>
+</p>
 
-Currently studying Systems for Internet Applications, I am building strong foundations in software engineering, clean code practices, and scalable backend architecture.
-
-My goal is to grow into a high-performance software developer prepared for remote and international opportunities, contributing to real-world products with solid technical and problem-solving skills.
+<br/>
 
 ---
 
@@ -37,35 +30,40 @@ My goal is to grow into a high-performance software developer prepared for remot
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Backend & Cloud
-
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### Database
-
-<p align="left"> 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### Frontend / Web
+### Frontend
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
+### Backend & Database
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### DevOps & Tools
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 <br/>
@@ -91,25 +89,11 @@ My goal is to grow into a high-performance software developer prepared for remot
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</p>
-
-<br/>
-
----
-
-<br/>
-
-<p align="center">
   <a href="https://github.com/PmwMaster">
     <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=70a5fd" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/seu-perfil">
+  <a href="https://linkedin.com/in/cristiano-xavier-426471342/">
     <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" />
   </a>
   &nbsp;
