@@ -4,15 +4,8 @@
 
 <br/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Olá,+eu+sou+o+Cristiano+Xavier;Desenvolvedor+Full+Stack" alt="Typing SVG" />
-</h1>
-
-<br/>
-
-<p align="center">
-  <em>Desenvolvedor Full Stack | Especialista em Landing Pages | Estudante de Sistemas para Internet</em>
-</p>
+<h1 align="center">Olá, eu sou o Cristiano Xavier</h1>
+<h3 align="center">Desenvolvedor Full Stack | Especialista em Landing Pages</h3>
 
 <br/>
 
